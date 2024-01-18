@@ -17,7 +17,7 @@
             :hasher :keyword
             :threads :long
             :save :boolean}
-   :alias {:r :dir
+   :alias {:d :dir
            :g :glob
            :h :hasher
            :t :threads
